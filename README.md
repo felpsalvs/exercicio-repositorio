@@ -6,7 +6,7 @@
 
 
 ### 🔖 Sobre
-Eu usei a API do Github para criar esse simples filtro de repositórios abertos e fechados, me deparei com alguns desafios em relação ao Router-Dom, porque no curso o professor usava a versão antiga dele, então fui atrás de saber o que houve de mudanças e aprendi muito com isso.
+Eu usei a API do Github para criar esse simples filtro de repositórios abertos e fechados, me deparei com alguns desafios em relação ao react-router-dom, porque no curso o professor usava a versão antiga dele, então fui atrás de saber o que houve de mudanças e aprendi muito com isso.
     
 ### 🚀 Tecnologias
 Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
