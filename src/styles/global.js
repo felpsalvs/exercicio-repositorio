@@ -13,7 +13,7 @@ html, border-style, #root{
 }
 
 body{
-    background: #161B22;
+    background: #262626;
     font-size: 14px;
     -webkit-font-smoothing: antialiased !important;
 }
