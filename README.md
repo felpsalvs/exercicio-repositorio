@@ -20,13 +20,6 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 
 ### ⚡ Como usar
 Faça um clone desse repositório: git clone https://github.com/felpsalvs/exercicio-repositorio.git <br/>
-Instale as dependências: yarn ou npm install <br/>
-    
-##### Instalação
--`npm install`
-
-##### Para rodar
--`npm start`
 
 Link da demo: https://exercicio-repositorio.vercel.app/<br/>
 ### Autor
